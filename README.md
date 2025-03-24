@@ -9,7 +9,11 @@ Post_Training_Quantization_Dynamic.ipynb演示了怎样进行训练后动态量�
 
 Post_Training_Quantization_Static.ipynb演示了怎样进行训练后静态量化。
 
-Quantization_Aware_Training.ipynb演示了怎样进行训练感知量化。
+Quantization_Aware_Training.ipynb演示了怎样进行训练感知量化。  
+
+Llama3_LoRA_INT8.ipynb演示了BitsAndBytes INT8量化。  
+
+Llama3_QLoRA_INT4.ipynb演示了BitsAndBytes QLoRA INT4量化。  
 
 course目录下是关于量化的一个教程。  
 
