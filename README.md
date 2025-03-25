@@ -21,3 +21,4 @@ Reference:
 https://www.bilibili.com/video/BV1EE42157Ms  
 https://www.bilibili.com/video/BV1DQ4y1t7e8  
 https://www.deeplearning.ai/short-courses/quantization-in-depth/  
+https://github.com/datawhalechina/awesome-compression  
