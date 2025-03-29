@@ -17,7 +17,10 @@ Llama3_QLoRA_INT4.ipynb演示了BitsAndBytes QLoRA INT4量化。
 
 course目录下是关于量化的一个教程。  
 
+ppq目录下是ppq量化框架应用示例。  
+
 Reference:  
+https://github.com/OpenPPL/ppq  
 https://www.bilibili.com/video/BV1EE42157Ms  
 https://www.bilibili.com/video/BV1DQ4y1t7e8  
 https://www.deeplearning.ai/short-courses/quantization-in-depth/  
