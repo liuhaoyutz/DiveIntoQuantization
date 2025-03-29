@@ -81,7 +81,7 @@ if torch.cuda.is_available():
 
 # session_fp32 = onnxruntime.InferenceSession("resnet50.onnx", providers=['CPUExecutionProvider'])
 # session_fp32 = onnxruntime.InferenceSession("resnet50.onnx", providers=['CUDAExecutionProvider'])
-session_fp32 = onnxruntime.InferenceSession("model_v2.onnx", providers=['CUDAExecutionProvider'])
+session_fp32 = onnxruntime.InferenceSession("model_v2_good_accuration.onnx", providers=['CUDAExecutionProvider'])
 
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
